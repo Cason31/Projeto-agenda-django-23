@@ -18,3 +18,7 @@ git init
 git add
 git commit -m 'mensagem'
 ```
+
+Publicar no github após configurar o git 
+
+git remote add origin URL_DO_GIT
