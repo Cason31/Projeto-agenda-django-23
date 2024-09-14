@@ -13,7 +13,7 @@ configurar git
 git config --global user.name 'seu nome'
 git config --global user.email 'seu_email@gmail.com'
 git config --global init.defaultbranch main
-configura gitignore
+configurar gitignore
 git init
 git add
 git commit -m 'mensagem'
